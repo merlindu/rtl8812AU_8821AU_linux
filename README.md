@@ -67,13 +67,13 @@ CONFIG_PLATFORM_ARM_RPI = y
 - Victor Azizi
 - 
 
-#merlindu>>>
-#install in Ubuntu 14.04(kernel 4.2):
+##merlindu>>>
+-#install in Ubuntu 14.04(kernel 4.2):
 
-#sudo apt-get install linux-headers-generic build-essential git
+-#sudo apt-get install linux-headers-generic build-essential git
 
 
-#git clone https://github.com/scrivy/rtl8812AU_8821AU_linux.git
-#make 
-#sudo make install
-#merlindu<<<
+-#git clone https://github.com/scrivy/rtl8812AU_8821AU_linux.git
+-#make 
+-#sudo make install
+##merlindu<<<
