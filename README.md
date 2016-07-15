@@ -2,6 +2,17 @@
 
 rtl8812AU_8821AU linux kernel driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 
+#merlindu>>>
+#install in Ubuntu 14.04(kernel 4.2):
+
+#sudo apt-get install linux-headers-generic build-essential git
+
+
+#git clone https://github.com/scrivy/rtl8812AU_8821AU_linux.git
+#make 
+#sudo make install
+#merlindu<<<
+
 ## Compiling with DKMS
 
 ```sh
